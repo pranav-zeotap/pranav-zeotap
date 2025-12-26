@@ -8,8 +8,7 @@ Software Engineer at Zeotap
 
 > Public contribution activity across repositories
 
-### 📅 Last 1 Year
-![Activity 1y](https://github-readme-activity-graph.vercel.app/graph?username=pranav-zeotap&days=365&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-zeotap&theme=github-dark)
 
 ---
 
