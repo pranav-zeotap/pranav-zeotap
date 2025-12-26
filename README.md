@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranav Raj
 
-Backend Software Engineer at Zeotap
+Software Engineer at Zeotap
 
 ---
 
