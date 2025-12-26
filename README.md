@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranav
+# 👋 Hi, I'm Pranav Raj
 
 Software Engineer at Zeotap
 
