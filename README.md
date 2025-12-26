@@ -1,10 +1,21 @@
-## 👋 Hi, I'm Pranav
+# 👋 Hi, I'm Pranav
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-zeotap&show_icons=true&theme=github_dark)
+Software Engineer at Zeotap
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=pranav-zeotap&theme=github-dark)
+---
 
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-zeotap&theme=github-dark)
+## 📈 GitHub Activity
+
+> Public contribution activity across repositories
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-zeotap&theme=github-dark)
+
+---
+
+## 🔎 Open Contribution Links
+
+- 🔗 [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Apranav-zeotap)
+- 🔗 [PRs I Reviewed](https://github.com/pulls?q=is%3Apr+reviewed-by%3Apranav-zeotap)
+- 🔗 [Issues I Opened](https://github.com/issues?q=author%3Apranav-zeotap)
+
+---
