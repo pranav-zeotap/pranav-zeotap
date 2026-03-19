@@ -4,14 +4,6 @@ Software Engineer at Zeotap
 
 ---
 
-## 📈 GitHub Activity
-
-> Public contribution activity across repositories
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-zeotap&days=180&height=310&theme=github-dark)
-
----
-
 ## 🔎 Open Contribution Links
 
 - 🔗 [My Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Apranav-zeotap)
