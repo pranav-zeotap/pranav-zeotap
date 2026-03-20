@@ -9,6 +9,7 @@ Software Engineer at Zeotap
 - 👑 **Owner** → [Canon](https://github.com/zeotap/canon)  
 - 👑 **Owner** → [Stratos](https://github.com/zeotap/stratos)  
 - 👑 **Owner** → [Stratos Worker](https://github.com/zeotap/stratos-worker)  
+- 👑 **Owner** → [Prometheus Query Monitor](https://github.com/zeotap/prometheus-query-monitor)  
 
 - 🤝 **Co-owner** → [Schematic](https://github.com/zeotap/schematic)  
 - 🤝 **Co-owner** → [Data Manager](https://github.com/zeotap/dazz-data-manager)  
